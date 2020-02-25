@@ -1,0 +1,5 @@
+La web está colgada en http://bddpelis.x10host.com
+
+Funcionan tanto la index, como la sección del Menú llamada "contacto", en donde está el formulario y todas las películas cuya foto aparece en el carousel.
+
+En la ficha de las películas, en el poster de cada una, hay unas imagenes superpuestas, donde utilizo el qTip2, funciona tanto para versión escritorio como versión movil.
